@@ -1,0 +1,4 @@
+#Sun Jul 15 15:28:16 BDT 2018
+base.0=/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1
+renamed.0=classes.dex
+file.0=/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex

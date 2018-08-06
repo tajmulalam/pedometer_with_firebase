@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/tajmulalam/Desktop/Pedometer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/tajmulalam/Desktop/StepsProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

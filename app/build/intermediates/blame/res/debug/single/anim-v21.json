@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tajmul/.android/build-cache/cdb1d2f340fc93909829797b7153338b6df8fbb8/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tajmul/.android/build-cache/cdb1d2f340fc93909829797b7153338b6df8fbb8/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

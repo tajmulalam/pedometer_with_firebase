@@ -1,0 +1,541 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/tajmul/.android/build-cache/9c754b03a2ee4a3ca4679e68c047f1f4c860ed3e/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/d6c8135aa94abe6b87a527e4632837ba669492f5/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/tajmul/.android/build-cache/5a66c43e384b8df7568313873070baa9d78ee68e/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/tajmul/.android/build-cache/2757363700d8d075e374fe23b2f351178b57e5fd/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/tajmul/.android/build-cache/db3a99680d957a4e0f35a37c4ef19280b3c76464/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/d6c8135aa94abe6b87a527e4632837ba669492f5/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:14:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:15:22-65
+application
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:17:5-70:19
+MERGED from [com.nabinbhandari.android:permissions:3.6] /home/tajmul/.android/build-cache/6069b572da660cfc604cfe11daa9364ed0882903/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/tajmul/.android/build-cache/14e98168b762399be52db5838205c9444b4247e3/output/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/tajmul/.android/build-cache/88b780806729834bc0525bbb1a65a9cc8cc17a6a/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/tajmul/.android/build-cache/55d3babb41f21273ade660663f7fbeed3ea91c73/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/tajmul/.android/build-cache/24f4f7ae1629000ecd93f716a810f97c2f1070d7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/tajmul/.android/build-cache/3057eac2294c93220133a8764a4d85bf1bdf691d/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/tajmul/.android/build-cache/186e1e235ae2d221ef51688f5788b770d805a5b8/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/tajmul/.android/build-cache/1f7efdd3423b78fcdda4f191a4b846fa6ca9e8b1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/tajmul/.android/build-cache/cbd98c11eedc21451d37be119f7eb0d3999443bb/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/tajmul/.android/build-cache/0c36e2b52a8031401e24df94288abfa9e51bc32b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/tajmul/.android/build-cache/5a66c43e384b8df7568313873070baa9d78ee68e/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/tajmul/.android/build-cache/669fa9d9dc7c4cd89003ebfe95206b1b766146ad/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/tajmul/.android/build-cache/b115119a8ea11753804e62b7d660219b23ac10b2/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/tajmul/.android/build-cache/569111573121457cab3263e5a4f0520d4eba3051/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/tajmul/.android/build-cache/76a6888053fb7f623b8a919f650ec0bdd1faab70/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/tajmul/.android/build-cache/e40c41d9c569ad0225ac939576dc581c1879eef4/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/tajmul/.android/build-cache/2757363700d8d075e374fe23b2f351178b57e5fd/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/tajmul/.android/build-cache/18283d6005a08c008ae140ca2671fd93b02ae082/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/tajmul/.android/build-cache/db3a99680d957a4e0f35a37c4ef19280b3c76464/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/tajmul/.android/build-cache/0bce9f709fbca3d40f94a18bd195c47d083c637d/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/tajmul/.android/build-cache/9c754b03a2ee4a3ca4679e68c047f1f4c860ed3e/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/tajmul/.android/build-cache/4fd87efae624318bc1921c434027b31cadec950a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/tajmul/.android/build-cache/f9b9362ffb166a5495b5396d7115f2a967564ccb/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/tajmul/.android/build-cache/76e3dc0bab02e6d006b80564d74015257458f261/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/tajmul/.android/build-cache/b94b8258ecddd88d1f56595d6c6f37de63f2288f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/tajmul/.android/build-cache/2c569143fc0c74f276b2ebb7bc71cdbe998044e8/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/d6c8135aa94abe6b87a527e4632837ba669492f5/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/tajmul/.android/build-cache/44e20f86c9fe4cb424a45023e036234dff152005/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/tajmul/.android/build-cache/31c319107edb10ae4b154bc1c1799b7082d15415/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/tajmul/.android/build-cache/e45f542523afb15e8a9c74f20cbe88b4c0df4b0a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/tajmul/.android/build-cache/bd2c414e6d1bb85dc0ddbc9aadd4ec02543e3796/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/tajmul/.android/build-cache/5c5eea6585777dcec1adf4dcf96d8cc1e4882ba0/output/AndroidManifest.xml:19:5-21:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tajmul/.android/build-cache/4304fd25c7f02e7ac906af2e68443f998be4af04/output/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:20:9-41
+	android:allowBackup
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:18:9-36
+	android:icon
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:19:9-43
+	android:theme
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:21:9-40
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:22:9-24:56
+	android:value
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:24:13-53
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:23:13-52
+meta-data#com.google.android.gms.version
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:25:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/tajmul/.android/build-cache/5c5eea6585777dcec1adf4dcf96d8cc1e4882ba0/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:26:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:28:9-30:47
+	android:value
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:29:13-62
+activity#com.stepproject.app.activities.SplashActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:33:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:38:27-74
+service#com.stepproject.app.pedometer.PedometerService
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:42:9-45:39
+	android:enabled
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:44:13-35
+	android:exported
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:43:13-55
+activity#com.stepproject.app.pedometer.Trace
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:47:9-49:37
+	android:label
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:49:13-34
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:48:13-44
+service#com.baidu.location.f
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:51:9-54:41
+	android:enabled
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:53:13-35
+	android:process
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:54:13-38
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:52:13-48
+activity#com.stepproject.app.pedometer.SettingsActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:56:9-63:20
+	android:label
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:58:13-60
+	android:parentActivityName
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:59:13-62
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:57:13-55
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:60:13-62:75
+	android:value
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:62:17-72
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:61:17-63
+activity#com.stepproject.app.pedometer.Pedometer
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:64:9-57
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:64:19-54
+activity#com.stepproject.app.activities.SignupActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:65:9-63
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:65:19-60
+activity#com.stepproject.app.activities.DashboardActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:66:9-66
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:66:19-63
+activity#com.stepproject.app.activities.FriendsActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:67:9-64
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:67:19-61
+activity#com.stepproject.app.activities.LogActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:68:9-60
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:68:19-57
+activity#com.stepproject.app.activities.LoginActivity
+ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:69:9-71
+	android:name
+		ADDED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml:69:19-59
+uses-sdk
+INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.nabinbhandari.android:permissions:3.6] /home/tajmul/.android/build-cache/6069b572da660cfc604cfe11daa9364ed0882903/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.0.0] /home/tajmul/.android/build-cache/a732641e7cd1d8199da05418fbf1b44e6f767d5a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.0] /home/tajmul/.android/build-cache/cdb1d2f340fc93909829797b7153338b6df8fbb8/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /home/tajmul/.android/build-cache/e6abd35f6372045446d331eb2f68699db3100886/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.0] /home/tajmul/.android/build-cache/cbbdc79ebf3f2bc8cad6ce053854df9b1a895d2e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:10.0.1] /home/tajmul/.android/build-cache/14e98168b762399be52db5838205c9444b4247e3/output/AndroidManifest.xml:4:5-42
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/tajmul/.android/build-cache/88b780806729834bc0525bbb1a65a9cc8cc17a6a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services:10.0.1] /home/tajmul/.android/build-cache/55d3babb41f21273ade660663f7fbeed3ea91c73/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /home/tajmul/.android/build-cache/89e927791fb5a69191d6be39e198dbdf672f63d6/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] /home/tajmul/.android/build-cache/bc2813dfdffb4caf304cd0ce7cb0ccd9a349eac7/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] /home/tajmul/.android/build-cache/24f4f7ae1629000ecd93f716a810f97c2f1070d7/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/tajmul/.android/build-cache/3057eac2294c93220133a8764a4d85bf1bdf691d/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/tajmul/.android/build-cache/186e1e235ae2d221ef51688f5788b770d805a5b8/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.0.0] /home/tajmul/.android/build-cache/706782920e474a2a8838b76d4baf9643938d042d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /home/tajmul/.android/build-cache/25e7764504829b19795844ab5cfeafb448684211/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /home/tajmul/.android/build-cache/2aa35cd8347e1c4890a788c937f253e76820d348/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /home/tajmul/.android/build-cache/1f7efdd3423b78fcdda4f191a4b846fa6ca9e8b1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] /home/tajmul/.android/build-cache/cbd98c11eedc21451d37be119f7eb0d3999443bb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] /home/tajmul/.android/build-cache/0c36e2b52a8031401e24df94288abfa9e51bc32b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] /home/tajmul/.android/build-cache/5a66c43e384b8df7568313873070baa9d78ee68e/output/AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] /home/tajmul/.android/build-cache/669fa9d9dc7c4cd89003ebfe95206b1b766146ad/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] /home/tajmul/.android/build-cache/911d197269d90bfff495f41e716382307823267d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] /home/tajmul/.android/build-cache/2f05736810f60e11e01fd9d96b4cbbca8658baee/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] /home/tajmul/.android/build-cache/5b43f64baa14f626f4b6f87b41dd8018b5c2318b/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] /home/tajmul/.android/build-cache/80692745a95e58794e991e3c0a38f1197f6c9618/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] /home/tajmul/.android/build-cache/b115119a8ea11753804e62b7d660219b23ac10b2/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] /home/tajmul/.android/build-cache/569111573121457cab3263e5a4f0520d4eba3051/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] /home/tajmul/.android/build-cache/76a6888053fb7f623b8a919f650ec0bdd1faab70/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /home/tajmul/.android/build-cache/e40c41d9c569ad0225ac939576dc581c1879eef4/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] /home/tajmul/.android/build-cache/2757363700d8d075e374fe23b2f351178b57e5fd/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] /home/tajmul/.android/build-cache/18283d6005a08c008ae140ca2671fd93b02ae082/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/tajmul/.android/build-cache/db3a99680d957a4e0f35a37c4ef19280b3c76464/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] /home/tajmul/.android/build-cache/1132bf8f3e753ad56ddf1179aba6a9396962eaa7/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] /home/tajmul/.android/build-cache/0bce9f709fbca3d40f94a18bd195c47d083c637d/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] /home/tajmul/.android/build-cache/9c754b03a2ee4a3ca4679e68c047f1f4c860ed3e/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] /home/tajmul/.android/build-cache/4fd87efae624318bc1921c434027b31cadec950a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] /home/tajmul/.android/build-cache/f9b9362ffb166a5495b5396d7115f2a967564ccb/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] /home/tajmul/.android/build-cache/76e3dc0bab02e6d006b80564d74015257458f261/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] /home/tajmul/.android/build-cache/b94b8258ecddd88d1f56595d6c6f37de63f2288f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] /home/tajmul/.android/build-cache/19127649f4e1c783af4d6e12e555b9ed8eb2f78e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /home/tajmul/.android/build-cache/2c569143fc0c74f276b2ebb7bc71cdbe998044e8/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/d6c8135aa94abe6b87a527e4632837ba669492f5/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] /home/tajmul/.android/build-cache/44e20f86c9fe4cb424a45023e036234dff152005/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] /home/tajmul/.android/build-cache/57c2b76888829c2f6e84b74029e177c7539b1b02/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] /home/tajmul/.android/build-cache/31c319107edb10ae4b154bc1c1799b7082d15415/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] /home/tajmul/.android/build-cache/e45f542523afb15e8a9c74f20cbe88b4c0df4b0a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /home/tajmul/.android/build-cache/bd2c414e6d1bb85dc0ddbc9aadd4ec02543e3796/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /home/tajmul/.android/build-cache/5c5eea6585777dcec1adf4dcf96d8cc1e4882ba0/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:27.0.0] /home/tajmul/.android/build-cache/c7462401e3f1100ee705d32a012f498007cd1f4c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /home/tajmul/.android/build-cache/e96d9367718fd189c9c9f1ba8f797496e49dbd11/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /home/tajmul/.android/build-cache/80e206168fe408135861c6a4cbdd344d75af212e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /home/tajmul/.android/build-cache/be802a928a3425f073527d3e95b9925e519f3ab0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /home/tajmul/.android/build-cache/c8da8e7d0ab3d6ee5849de71fe59a12a1284dba7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /home/tajmul/.android/build-cache/4160e93dccee123fa0ef852fb67e5471d58109d5/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/tajmul/.android/build-cache/4304fd25c7f02e7ac906af2e68443f998be4af04/output/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tajmul/Desktop/StepsProject/app/src/main/AndroidManifest.xml
+activity#com.nabinbhandari.android.permissions.PermissionsActivity
+ADDED from [com.nabinbhandari.android:permissions:3.6] /home/tajmul/.android/build-cache/6069b572da660cfc604cfe11daa9364ed0882903/output/AndroidManifest.xml:12:9-14:67
+	android:theme
+		ADDED from [com.nabinbhandari.android:permissions:3.6] /home/tajmul/.android/build-cache/6069b572da660cfc604cfe11daa9364ed0882903/output/AndroidManifest.xml:14:13-64
+	android:name
+		ADDED from [com.nabinbhandari.android:permissions:3.6] /home/tajmul/.android/build-cache/6069b572da660cfc604cfe11daa9364ed0882903/output/AndroidManifest.xml:13:13-85
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/d6c8135aa94abe6b87a527e4632837ba669492f5/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] /home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] /home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] /home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] /home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/tajmul/.android/build-cache/2757363700d8d075e374fe23b2f351178b57e5fd/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] /home/tajmul/.android/build-cache/db3a99680d957a4e0f35a37c4ef19280b3c76464/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] /home/tajmul/.android/build-cache/2757363700d8d075e374fe23b2f351178b57e5fd/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] /home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tajmul/.android/build-cache/4304fd25c7f02e7ac906af2e68443f998be4af04/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tajmul/.android/build-cache/4304fd25c7f02e7ac906af2e68443f998be4af04/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/tajmul/.android/build-cache/4304fd25c7f02e7ac906af2e68443f998be4af04/output/AndroidManifest.xml:26:13-58

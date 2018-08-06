@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permisson_rejected">If you reject permission,you can not use this service  Please turn on permissions at [Setting] > [Permission]</string>
+</resources>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tajmulalam/.android/build-cache/d5c1321888d382971b92b9c50abdc9f993395b79/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tajmulalam/.android/build-cache/d5c1321888d382971b92b9c50abdc9f993395b79/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/avd_show_password.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/tajmulalam/.android/build-cache/d5c1321888d382971b92b9c50abdc9f993395b79/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tajmulalam/.android/build-cache/d5c1321888d382971b92b9c50abdc9f993395b79/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/drawable-v21/avd_hide_password.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/design_password_eye.xml",
+        "source": "/home/tajmulalam/.android/build-cache/bc4d4daf4cb1698f22d2a036488e0e3705a648ce/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/tajmulalam/.android/build-cache/d5c1321888d382971b92b9c50abdc9f993395b79/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/tajmulalam/.android/build-cache/d5c1321888d382971b92b9c50abdc9f993395b79/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

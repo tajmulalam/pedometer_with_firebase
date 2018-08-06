@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/9c754b03a2ee4a3ca4679e68c047f1f4c860ed3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0879f647e0b119206ad70e9435ff617a1b206110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/Desktop/StepsProject/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_871a4ff2ec00c1bcddfa50ac8fff468cd9bf95fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/db3a99680d957a4e0f35a37c4ef19280b3c76464/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8fa8fce03dddb2c297d223605620b0c62afb995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/84965c9a6dc3d0ef5bc8f1a053d9c223e8008c9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70b8d8f8980b88fb1d3bab26bb6c37d0acef0ca0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/911d197269d90bfff495f41e716382307823267d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03ebd059555888ee4458d883dbeaef0d67a8d641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/e5f5433b02d316793019c07736691f9fbb3ef15f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b689d7bbeaff094a8c0e9ca4ba34d57e640d4fde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/44e20f86c9fe4cb424a45023e036234dff152005/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf3831e83befcd56d7cde825e91ab95b55e72488/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/0c36e2b52a8031401e24df94288abfa9e51bc32b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21cb2203279e8554c0b683e01b674e618f9cdd81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/24f4f7ae1629000ecd93f716a810f97c2f1070d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e61e85ee801ed9d9e6823044bbf602b7ee0a4e3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/19127649f4e1c783af4d6e12e555b9ed8eb2f78e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f92e40a9e0c8202aca74daa48e65fafef8b2579/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/18283d6005a08c008ae140ca2671fd93b02ae082/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ef86dba7aabed36abac43418ee4f6c0e2a07cd5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/80692745a95e58794e991e3c0a38f1197f6c9618/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_23109cba1d5c9a2adf9266c9242aa1537397b4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/6759b1e83b7c9879af7d43baea6f03fd3dd3af69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da62ede3f6999e39d1e9b6a7c2e0185b585907f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.gradle/caches/modules-2/files-2.1/org.immutables/gson/2.6.1/dc5e9f4b19b0aa005047c68f0e2fc520ffb5a1b0/gson-2.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="dc5e9f4b19b0aa005047c68f0e2fc520ffb5a1b0">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_bf40fdcf4c9e76fa624797fec4428d20b3136c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/e45f542523afb15e8a9c74f20cbe88b4c0df4b0a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73bf5ec26bdb33bc0dd0127a5089f268087bfd1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/d9fa16a5c2631b112bb9aa5111c46bb381124156/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d43048ed56376e92a296d82124a15ee2aa7f28a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/2757363700d8d075e374fe23b2f351178b57e5fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_046c94313210ab76c6b8f41dc632700f75c8070c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/5a66c43e384b8df7568313873070baa9d78ee68e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8a0123636c050931b77fd50d75f969f7b7c642b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/76a6888053fb7f623b8a919f650ec0bdd1faab70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c364f27bf87d0133adcc762334e36f4577d4a98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/c316fd9d3e3a8c0c2e445d2c1653c5eea71e9d2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38294299445b1e0fb2cf4b8854dbdf73900368a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/76e3dc0bab02e6d006b80564d74015257458f261/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97f7af9f908cb1a38fe3d32c7dfaa3ae0193ae2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/bc2813dfdffb4caf304cd0ce7cb0ccd9a349eac7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec04acba3edcaad03a5ab92553668041377a9028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/89e927791fb5a69191d6be39e198dbdf672f63d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbd9cc2cd68030f2aec83e0cbd20be1bc25a5e0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/5c5eea6585777dcec1adf4dcf96d8cc1e4882ba0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75ff4453d508c207629958dcf1900eaff8e7bb40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_4d6733d86cf0f505c20e55971dbf932e665e4c21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/6505831f329ef7782b896ee2a2eb60faa0dc4725/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d21becf1bd61c338d064d763ab5c916e2af50aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/b94b8258ecddd88d1f56595d6c6f37de63f2288f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbd8f216b9eaf3914a65627c430d322f006c0b26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/b115119a8ea11753804e62b7d660219b23ac10b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86c8fe20268cb61137361964885d4fcde76ac2e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/Desktop/StepsProject/app/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="278b22ab1548cee800b9776d682fb7d22bd2c2bc">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_6e34a39e0299ad14efd1bc035fe088c3a9bfcd06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/669fa9d9dc7c4cd89003ebfe95206b1b766146ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b743e2cd9104953231b893964c47e061c9e6dcb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/cbd98c11eedc21451d37be119f7eb0d3999443bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ede9a50034e03cb23167d10470a67ead3ba2228b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/2c569143fc0c74f276b2ebb7bc71cdbe998044e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd307b7c0c1dd4f870f462147ac7ba43d75766c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/7215e2e1bf08bbf9b063a29bdd77761f94ab0687/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7f1cc28529cdd6b73c42915ccee40d8bdccf471/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/57c2b76888829c2f6e84b74029e177c7539b1b02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f73f0372920227ca2f67756dd486d7dec19f3a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/3057eac2294c93220133a8764a4d85bf1bdf691d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7687a53a5cc2fd3caed2d32c89444070d002ee2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/e40c41d9c569ad0225ac939576dc581c1879eef4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9723fb4649f446e019a85cf20ef946ad006932c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/bd2c414e6d1bb85dc0ddbc9aadd4ec02543e3796/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_583b7c02a180e963dbcf842b948f577a98c48384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/4ef55357e2347ac940b5e62fedaeb3723324b257/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e3def7d8a3e8f44ee8ca3aea69030123a7fa9b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/0bce9f709fbca3d40f94a18bd195c47d083c637d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc2f19256fca888665675a1de3c62d998a666c20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/79cd8c1831a59d77f5039686c041b775d8d4a5c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b086090d95a24dd776d066224e8a8d27ce8387a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/d8b7d54622da689925ae75df2afd6b6b02398f10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_745de61afee4b8873f855aa36b9146c66c93a627/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/Desktop/StepsProject/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ea910240fd3a13073123b76f05b516f6d80a7d8f">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47a0b01d1d0ed5357329f0516def54c75a514554/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/2f05736810f60e11e01fd9d96b4cbbca8658baee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7846890c5ead5eb91846d17385701be369e29c4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/c9ad182d007864c7dc8427b67c97c19ccce8c3ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9f195469dbb4145732358a40638b5717cc9eaff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/569111573121457cab3263e5a4f0520d4eba3051/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea585fa0249378ce152321c3e9d6b11f8ccaf7a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/31c319107edb10ae4b154bc1c1799b7082d15415/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7230eaa951ac9c35e2c7ae9fc0ec33809a7c951/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/3057eac2294c93220133a8764a4d85bf1bdf691d/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_5317eb56c380e20cfed75587a633e84a67ac2afd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/4fd87efae624318bc1921c434027b31cadec950a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f3b98184bc2677c202c1b07a7fea512484d5e9c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/Desktop/StepsProject/app/libs/httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/2/httpmime-4.1.2_8c148906281ad93b4b46d83af42ff98678c3cddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/1132bf8f3e753ad56ddf1179aba6a9396962eaa7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b74ad9da28ba82ceae2ae12316abcbcb95edd641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/f9b9362ffb166a5495b5396d7115f2a967564ccb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce0d519df4f4cd55a4adb875c195fd654f47eede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/5b43f64baa14f626f4b6f87b41dd8018b5c2318b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ba2ba0df1bae53b4f7a607d34f7f665de2398d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/0b384338341ff05f45bb6e72ac7a56282696c167/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58274a047c92bec928f8cc48a67196f16ed2a880/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/d6c8135aa94abe6b87a527e4632837ba669492f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_228d8d04bd0248d2ccc3b0f0b642422a7a0fddf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/6069b572da660cfc604cfe11daa9364ed0882903/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3694fa9615da16a71e4b25bb866cac644b7ea821">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97ca5c1cfce7d42a0a5f3e4cb535b7548b0ab73a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/186e1e235ae2d221ef51688f5788b770d805a5b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d225b7cbe2fd817e6a314fb6b531ccf9eccf3d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/b6753dc5257a039fe06f4328bcf8a9f12605b7ce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_606220dc2c8763cdba390d1148853760f2d16ae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tajmul/.android/build-cache/1f7efdd3423b78fcdda4f191a4b846fa6ca9e8b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96ef030fb0a0562c881b8e4b5a23b992cb2971ea/classes.dex" />
+    </item>
+
+</items>

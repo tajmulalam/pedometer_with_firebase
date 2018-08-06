@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/release/menu/navigation_drawer_items.xml",
+        "source": "/home/tajmulalam/Desktop/StepsProject/app/src/main/res/menu/navigation_drawer_items.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/release/menu/navigation_drawer_items.xml",
+        "source": "/home/tajmulalam/Desktop/Pedometer/app/src/main/res/menu/navigation_drawer_items.xml"
+    }
+]

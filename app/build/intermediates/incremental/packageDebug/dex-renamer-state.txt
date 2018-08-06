@@ -1,0 +1,7 @@
+#Sun Jul 15 17:35:02 BDT 2018
+base.0=/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47a0b01d1d0ed5357329f0516def54c75a514554
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_871a4ff2ec00c1bcddfa50ac8fff468cd9bf95fe/classes.dex
+base.1=/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_871a4ff2ec00c1bcddfa50ac8fff468cd9bf95fe
+file.0=/home/tajmul/Desktop/StepsProject/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47a0b01d1d0ed5357329f0516def54c75a514554/classes.dex

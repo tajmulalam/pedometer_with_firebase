@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "556565362224",
+    "firebase_url": "https://stepproject-52b2c.firebaseio.com",
+    "project_id": "stepproject-52b2c",
+    "storage_bucket": "stepproject-52b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556565362224:android:a9fd6b13edb4e985",
+        "android_client_info": {
+          "package_name": "com.stepproject.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556565362224-ap9fq2im27o487hqsjs6s2nr5sqlih85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG9oHG84olmaMoncf5l3KkgRl0-aXPsuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

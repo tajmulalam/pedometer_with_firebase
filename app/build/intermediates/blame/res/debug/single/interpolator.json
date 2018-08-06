@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/tajmulalam/.android/build-cache/3666b14374759981e2486cda369703e519661295/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/tajmul/.android/build-cache/3057eac2294c93220133a8764a4d85bf1bdf691d/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/tajmul/.android/build-cache/3057eac2294c93220133a8764a4d85bf1bdf691d/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/tajmulalam/.android/build-cache/3666b14374759981e2486cda369703e519661295/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/tajmulalam/.android/build-cache/3666b14374759981e2486cda369703e519661295/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/tajmulalam/.android/build-cache/3666b14374759981e2486cda369703e519661295/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

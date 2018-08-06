@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tajmul/.android/build-cache/4160e93dccee123fa0ef852fb67e5471d58109d5/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tajmul/.android/build-cache/4160e93dccee123fa0ef852fb67e5471d58109d5/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tajmul/.android/build-cache/4160e93dccee123fa0ef852fb67e5471d58109d5/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/tajmul/.android/build-cache/f9b9362ffb166a5495b5396d7115f2a967564ccb/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/Pedometer/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/tajmulalam/.android/build-cache/63d4cb527e9268418c96f3fe7f6da25889976138/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tajmul/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tajmul/.android/build-cache/4160e93dccee123fa0ef852fb67e5471d58109d5/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tajmulalam/.android/build-cache/8f6490fef0a9e9b9b41648c24ec7f92efb88abc3/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tajmulalam/Desktop/StepsProject/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/tajmulalam/.android/build-cache/63d4cb527e9268418c96f3fe7f6da25889976138/output/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]
